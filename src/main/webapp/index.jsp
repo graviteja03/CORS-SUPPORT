@@ -5,6 +5,7 @@
 </head>
 <body>
 <a href="/home">homepage</a>
+  <a href="/logout">logout</a>
 <h2>
 productid: <span id= "id1"></span> <br>
 productname: <span id= "id2"></span> <br>

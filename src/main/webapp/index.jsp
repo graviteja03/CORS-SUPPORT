@@ -4,6 +4,7 @@
   <script src="demo.js"></script>
 </head>
 <body>
+  <a href="/signup">singup</a>
 <a href="/home">homepage</a>
   <a href="/logout">logout</a>
 <h2>

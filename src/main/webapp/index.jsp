@@ -4,6 +4,7 @@
   <script src="demo.js"></script>
 </head>
 <body>
+<a href="/home">homepage</a>
 <h2>
 productid: <span id= "id1"></span> <br>
 productname: <span id= "id2"></span> <br>
